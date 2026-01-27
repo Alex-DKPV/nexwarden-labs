@@ -145,11 +145,10 @@ Ce projet **professionnel en cours** s'inscrit dans une démarche de montée en 
 
 **Du lab à l'architecture réelle** :
 - Les Labs 01 et 02 (NEXWARDEN) ont permis d'acquérir les fondamentaux (attaque/défense, détection).
-- Le Lab 03 = **ce projet nexwarden-labs** = application concrète à une architecture bancaire complète.
 
 ---
 
-## 📬 Contact
+- **nexwarden-labs (ce projet)** = projet professionnel d'architecture bancaire sécurisée complète.
 
 - **LinkedIn** : [Alexandre DOSSOUKPEVI](https://www.linkedin.com/in/nexwarden)
 - **Email** : Disponible sur demande via LinkedIn
