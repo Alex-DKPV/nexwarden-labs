@@ -24,7 +24,7 @@ Ce projet démontre une **approche architecte cybersécurité** pour des environ
 ## 🏗️ Architecture Réseau
 ## 🗺️ Diagramme de l'Architecture Complète
 
-![Architecture NEXWARDENLABS - GNS3 + VMware](LAB.png)
+![Architecture NEXWARDENLABS - GNS3 + VMware](labs-images/LAB.png)
 
 *Topologie complète avec DMZ, Data-Center, Monitoring SOC, Zone APT, Firewall VyOS, Suricata, Wazuh, ELK, etc.*
 ### Zones de sécurité
